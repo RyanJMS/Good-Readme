@@ -4,7 +4,7 @@
 
 Repo by RyanJMS
 
-![Last Commit]("https://img.shields.io/github/last-commit/RyanJMS/Good_Readme_Generator")
+![Last Commit]("https://img.shields.io/github/last-commit/RyanJMS/Good\_Readme\_Generator")
 
 # Table of Contents
 
