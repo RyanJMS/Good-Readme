@@ -13,7 +13,8 @@ const api = {
     if (data.total_count === 0) return false;
 
     //Populate our data object with data from Github Repo
-
+    console.log(data.items[0].full_name);
+    console.log(data.items[0].owner.name);
     return {
       name: data.items[0].owner.login,
       avatar: data.items[0].owner.avatar_url,

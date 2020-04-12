@@ -4,7 +4,7 @@ function generateMarkdown(data) {
   # ${data.title}
   Repo by ${data.name}
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/${data.name}/${data.title})
+  ![GitHub repo size](https://img.shields.io/github/repo-size/"${data.path}")
   
 
   # Table of Contents
