@@ -1,9 +1,9 @@
- <a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
-  # Good Readme Generator
+
+  <a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
+  # Good README Generator
   Repo by RyanJMS
-  ![GitHub contributors](https://img.shields.io/github/contributors/RyanJMS/RyanJMS/good-readme?logoColor=blue&style=plastic)
-
-
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/RyanJMS/RyanJMS/Good-Readme)
   
 
   # Table of Contents
@@ -25,27 +25,28 @@
 
   ## Installation
 
-  Git clone to computer. Then from a command line compatible with node, navigate to the cloned folder within the commandline, then run node index.js
+   Git clone to computer. Then from a command line compatible with node, navigate to the cloned folder within the commandline, then run node index.js
 
 
   ## Usage
 
-  The app's usage is to quickly generate the main content blocks/information about the project in a clean, user friendly manner.
+   The app's usage is to quickly generate the main content blocks/information about the project in a clean, user friendly manner.
 
   ## License
-  None
+
   
 
   ## Contributing
-  RyamJMS
-  
+
+  ryanjms
 
 
   ## Tests
-  None
-  
+
+  none
 
   ## Questions
-  None
+
+  none
   
-  
+
