@@ -4,7 +4,7 @@
 
 Repo by RyanJMS
 
-![GitHub repo size](https://img.shields.io/github/repo-size/"RyanJMS/Good-Readme")
+  ![GitHub repo size]("https://img.shields.io/github/repo-size/"RyanJMS"/"good readme"")
 
 # Table of Contents
 
