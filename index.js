@@ -69,7 +69,6 @@ async function init() {
         message: "Please enter your repository name",
       },
     ]);
-
     readMe = await api.getUser(userName, repoName);
 
     if (!readMe) {

@@ -1,10 +1,11 @@
 function generateMarkdown(data) {
+  console.log(data);
   return `
-  <a href="${data.link}" style="float:left"><img src="${data.avatar}">
+  <img src="${data.avatar}">
   # ${data.title}
   Repo by ${data.name}
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/"${data.path}")
+  ![GitHub repo size](https://img.shields.io/github/repo-size/${data.path})
   
 
   # Table of Contents
