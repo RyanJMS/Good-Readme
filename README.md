@@ -1,4 +1,4 @@
-<a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
+<a href="${data.url}" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
 
 # Good Readme Generator
 
