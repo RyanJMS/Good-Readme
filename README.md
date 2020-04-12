@@ -4,7 +4,7 @@
   Repo by RyanJMS
   
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/RyanJMS/readme)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/RyanJMS/hw9_good_readme)
   
 
   # Table of Contents
