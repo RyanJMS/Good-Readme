@@ -1,51 +1,45 @@
- <a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
-  # Good Readme Generator
-  Repo by RyanJMS
-  ![GitHub contributors](https://img.shields.io/github/contributors/RyanJMS/RyanJMS/good-readme?logoColor=blue&style=plastic)
+<a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
 
+# Good Readme Generator
 
-  
+Repo by RyanJMS
 
-  # Table of Contents
-  1. [Description](#Description)
-  2. [Installation](#Installation)
-  3. [Usage](#Usage)
-  4. [License](#License)
-  5. [Contributing](#Contributing)
-  6. [Tests](#Tests)
-  7. [Questions](#Questions)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/"${data.path}")
 
+# Table of Contents
 
-  
-  
-  ## Description
+1. [Description](#Description)
+2. [Installation](#Installation)
+3. [Usage](#Usage)
+4. [License](#License)
+5. [Contributing](#Contributing)
+6. [Tests](#Tests)
+7. [Questions](#Questions)
 
-  This is github readme generator. The user will be asked to enter their github username and repo name of the repository they would like to generate a readme for. The user will then be asked a series of questions about the projet(installation, usage, license, etc), and once all questions are answered a readme is generated.
+## Description
 
+This is a basic github readme generator. The user is prompted to enter their github username, and repository name to generate a readme for
 
-  ## Installation
+## Installation
 
-  Git clone to computer. Then from a command line compatible with node, navigate to the cloned folder within the commandline, then run node index.js
+Git clone to computer. Open a command-line that is compatible with node, navigate to the cloned folder in the command-line, run node index.js
 
+## Usage
 
-  ## Usage
+The app's use is to create a quick, clean, and comprehensive readme file for a github repository.
 
-  The app's usage is to quickly generate the main content blocks/information about the project in a clean, user friendly manner.
+## License
 
-  ## License
-  None
-  
+none
 
-  ## Contributing
-  RyamJMS
-  
+## Contributing
 
+RyanJMS
 
-  ## Tests
-  None
-  
+## Tests
 
-  ## Questions
-  None
-  
-  
+none
+
+## Questions
+
+none
