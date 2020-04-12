@@ -1,52 +1,45 @@
+<a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
 
-  <a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
-  # Good Readme Generator
-  Repo by RyanJMS
-  
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/RyanJMS/hw9_good_readme)
-  
+# Good Readme Generator
 
-  # Table of Contents
-  1. [Description](#Description)
-  2. [Installation](#Installation)
-  3. [Usage](#Usage)
-  4. [License](#License)
-  5. [Contributing](#Contributing)
-  6. [Tests](#Tests)
-  7. [Questions](#Questions)
+Repo by RyanJMS
 
+![Last Commit]("https://img.shields.io/github/last-commit/RyanJMS/Good_Readme_Generator")
 
-  
-  
-  ## Description
+# Table of Contents
 
-  This is a basic github readme generator. It asks the user to enter their username, and repo name for which they want to generate a readme file for, and then a series of questions about the project, and voila. This readme was generated with the application.
+1. [Description](#Description)
+2. [Installation](#Installation)
+3. [Usage](#Usage)
+4. [License](#License)
+5. [Contributing](#Contributing)
+6. [Tests](#Tests)
+7. [Questions](#Questions)
 
+## Description
 
-  ## Installation
+This is github readme generator. The user will be asked to enter their github username and repo name of the repository they would like to generate a readme for. The user will then be asked a series of questions about the projet(installation, usage, license, etc), and once all questions are answered a readme is generated.
 
-  Git clone to computer. Open in command line that supports node, and run node index.js
+## Installation
 
+Git clone to computer. Then from a command line compatible with node, navigate to the cloned folder within the commandline, then run node index.js
 
-  ## Usage
+## Usage
 
-  This app's intended usage is to quickly generate a clean, but comprehensive readme for a github repository.
+The app's usage is to quickly generate the main content blocks/information about the project in a clean, user friendly manner.
 
-  ## License
+## License
 
-  none
+none
 
-  ## Contributing
+## Contributing
 
-  RyanJMS
+ryanjms
 
+## Tests
 
-  ## Tests
+none
 
-  none
+## Questions
 
-  ## Questions
-
-  none
-  
+none
