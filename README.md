@@ -1,10 +1,10 @@
-<a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
+<img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
 
 # Good Readme Generator
 
 Repo by RyanJMS
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/"${data.path}")
+   ![GitHub repo size](https://img.shields.io/github/repo-size/RyanJMS/Good-Readme)
 
 # Table of Contents
 
