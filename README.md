@@ -1,10 +1,10 @@
 <a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
 
-# Good Readme Generator
+# Good README Generator
 
 Repo by RyanJMS
 
-![Last Commit]("https://img.shields.io/github/last-commit/RyanJMS/Good\_Readme\_Generator")
+![Last Commit]("https://img.shields.io/github/last-commit/RyanJMS/RyanJMS/hw9_Good_Readme")
 
 # Table of Contents
 
