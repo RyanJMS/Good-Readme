@@ -1,5 +1,5 @@
 
-  <a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4" height="100" width="80">
+  <a href="undefined" style="float:left"><img src="https://avatars0.githubusercontent.com/u/59546790?v=4">
   # Good Readme Generator
   Repo by RyanJMS
   
